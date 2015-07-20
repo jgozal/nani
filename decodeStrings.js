@@ -5,7 +5,7 @@ function compireAudio() {
     var i,j,d;
     var matching = 0;
     var t = 0;
-    
+
     var audio1Arr = Array();
     var audio1Len = audio1.length;
     for (i = 1; i<=audio1Len; i++)
